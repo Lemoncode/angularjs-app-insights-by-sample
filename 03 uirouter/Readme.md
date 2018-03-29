@@ -1,4 +1,4 @@
-# 00 Managing Exceptions
+# 03 Navigation
 
 In this project we are going to keep track of the user navigation.
 
