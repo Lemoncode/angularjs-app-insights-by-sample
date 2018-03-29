@@ -32,5 +32,5 @@ we can just hook to ui-router-provider.
 
 ## 04 Custom events
 
-In some events we wanto register custom events
+In some scenarios we want to register custom events
 
